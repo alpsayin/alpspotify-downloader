@@ -1,3 +1,6 @@
+# Deprecated
+Unfortunately youtube-dl library this version depends on doesn't work anymore. And spotDL v3 is in the works on top of that. I'll probably implement the functional changes in this fork and send a PR to v3.
+
 # Spotify-Downloader
 
 [![PyPi](https://img.shields.io/pypi/v/spotdl.svg)](https://pypi.org/project/spotdl)
