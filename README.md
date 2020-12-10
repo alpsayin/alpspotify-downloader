@@ -6,6 +6,9 @@ What spotDL does:
 1. Downloads music from YouTube as an MP3 file
 2. Applies basic metadata like `track name`, `track number`, `album`, `genre` and more...
 
+What this fork does:
+1. It prepends a track's index (i.e. list location) if you're downloading a playlist, so you can put then into a dumb mp3 player without losing playlist order.
+
 You need to download ffmpeg to use this tool, download it from:
 1. [MacOs](https://evermeet.cx/ffmpeg/)
 2. [Windows](https://www.gyan.dev/ffmpeg/builds/)
