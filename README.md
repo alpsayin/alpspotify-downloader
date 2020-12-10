@@ -12,8 +12,6 @@ You need to download ffmpeg to use this tool, download it from:
 3. [Linux](https://johnvansickle.com/ffmpeg/)
 4. [Central Release Page](https://ffmpeg.org/download.html)
 
-<br><br>
-
 # Announcing spotDL v3.0.2
 
 We have rebuilt spotDL from scratch to be much faster, simpler and better than the old spotDL.
