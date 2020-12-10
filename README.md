@@ -2,19 +2,6 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/spotDL/spotify-downloader/blob/master/LICENSE)
 
-⚠ Interested Contributors, please read our [contributing Guidelines](CONTRIBUTING.md) first.
-
-⚠ We are dropping active development of spotDL v2. No focused efforts will be made to resolve v2
-specific issues.
-
-⚠ We are actively looking for Contributors/Organization Members for all projects under development. 
-If interested, see [#857](https://github.com/spotDL/spotify-downloader/issues/857)
-
-⚠ There are a few feature requests we'd like the community to vote on. Do voice your support for features you'd like.
-See [#867](https://github.com/spotDL/spotify-downloader/issues/867) to vote.
-
-<br><br>
-
 What spotDL does:
 1. Downloads music from YouTube as an MP3 file
 2. Applies basic metadata like `track name`, `track number`, `album`, `genre` and more...
@@ -97,3 +84,4 @@ tracks for more speed.
 # A few interesting forks
 1. [aasmpro/spotify/downloader](https://github.com/aasmpro/spotify-downloader)
     - Sets metadata for songs that are already downloaded (v2 only.)
+1. this one, heheh :)
