@@ -6,8 +6,6 @@ What spotDL does:
 1. Downloads music from YouTube as an MP3 file
 2. Applies basic metadata like `track name`, `track number`, `album`, `genre` and more...
 
-<br><br>
-
 You need to download ffmpeg to use this tool, download it from:
 1. [MacOs](https://evermeet.cx/ffmpeg/)
 2. [Windows](https://www.gyan.dev/ffmpeg/builds/)
